@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CampusHead</string>
+    <string name="facebook_app_id">2558032904249266</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fb_login_protocol_scheme">fb2558032904249266</string>
+</resources>

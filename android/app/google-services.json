@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "410955858616",
+    "firebase_url": "https://campushead-app.firebaseio.com",
+    "project_id": "campushead-app",
+    "storage_bucket": "campushead-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410955858616:android:6e32f15082b33f3dfdea4d",
+        "android_client_info": {
+          "package_name": "com.campushead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410955858616-9sqr8k5etq26au65fov0uj3c1du70nvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campushead",
+            "certificate_hash": "d48efe823222627b65bbe1bd33d0667b726793ba"
+          }
+        },
+        {
+          "client_id": "410955858616-d2kho3rgq2v44d13tkbuutc7pt56rjto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01aiO53L3PL-88hqIfFvzYzwASk7Yjxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410955858616-d2kho3rgq2v44d13tkbuutc7pt56rjto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410955858616-v1l575pdskf0g451vst2srpesgkqdoom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.campushead.campushead",
+                "app_store_id": "1478652577"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410955858616:android:e7f895291f954205",
+        "android_client_info": {
+          "package_name": "com.ch_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410955858616-v8vcf7meve23gf1n92dkgvb8gqmtgf33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ch_music",
+            "certificate_hash": "d48efe823222627b65bbe1bd33d0667b726793ba"
+          }
+        },
+        {
+          "client_id": "410955858616-d2kho3rgq2v44d13tkbuutc7pt56rjto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01aiO53L3PL-88hqIfFvzYzwASk7Yjxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410955858616-d2kho3rgq2v44d13tkbuutc7pt56rjto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410955858616-v1l575pdskf0g451vst2srpesgkqdoom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.campushead.campushead",
+                "app_store_id": "1478652577"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
