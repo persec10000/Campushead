@@ -14,7 +14,7 @@
         "firebase": "^6.6.1",
         "jetifier": "^1.6.5",
         "jwt-decode": "^2.2.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "native-base": "^2.13.8",
         "react": "16.8.6",
         "react-native": "0.60.5",
